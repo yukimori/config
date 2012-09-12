@@ -1,6 +1,0 @@
-escape ^Tt
-vbell off
-hardstatus alwayslastline " %`%-w%{=b bw}%n %t%{-}%+w"
-autodetach on
-defutf8 on
-bind ^k kill
